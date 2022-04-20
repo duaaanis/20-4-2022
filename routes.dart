@@ -1,4 +1,1 @@
-class MyRoutes {
-  static String LoginRoute = "/login";
-   static String homeRoute = "/home";
-}
+// TODO Implement this library.
